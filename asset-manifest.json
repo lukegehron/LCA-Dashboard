@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "http://localhost:3000/static/css/main.d1b05096.chunk.css",
-    "main.js": "http://localhost:3000/static/js/main.c47f1af4.chunk.js",
-    "main.js.map": "http://localhost:3000/static/js/main.c47f1af4.chunk.js.map",
-    "runtime-main.js": "http://localhost:3000/static/js/runtime-main.562f6fbc.js",
-    "runtime-main.js.map": "http://localhost:3000/static/js/runtime-main.562f6fbc.js.map",
-    "static/js/2.088f2afe.chunk.js": "http://localhost:3000/static/js/2.088f2afe.chunk.js",
-    "static/js/2.088f2afe.chunk.js.map": "http://localhost:3000/static/js/2.088f2afe.chunk.js.map",
-    "index.html": "http://localhost:3000/index.html",
-    "precache-manifest.55b12c7f8d9a3d710e3f432a06ee9d01.js": "http://localhost:3000/precache-manifest.55b12c7f8d9a3d710e3f432a06ee9d01.js",
-    "service-worker.js": "http://localhost:3000/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "http://localhost:3000/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.088f2afe.chunk.js.LICENSE.txt": "http://localhost:3000/static/js/2.088f2afe.chunk.js.LICENSE.txt",
-    "static/media/allimpacts.csv": "http://localhost:3000/static/media/allimpacts.5c5df224.csv",
-    "static/media/gwp.csv": "http://localhost:3000/static/media/gwp.7df9e12d.csv"
+    "main.css": "/LCA-Dashboard/static/css/main.d1b05096.chunk.css",
+    "main.js": "/LCA-Dashboard/static/js/main.67bc1888.chunk.js",
+    "main.js.map": "/LCA-Dashboard/static/js/main.67bc1888.chunk.js.map",
+    "runtime-main.js": "/LCA-Dashboard/static/js/runtime-main.daa35054.js",
+    "runtime-main.js.map": "/LCA-Dashboard/static/js/runtime-main.daa35054.js.map",
+    "static/js/2.088f2afe.chunk.js": "/LCA-Dashboard/static/js/2.088f2afe.chunk.js",
+    "static/js/2.088f2afe.chunk.js.map": "/LCA-Dashboard/static/js/2.088f2afe.chunk.js.map",
+    "index.html": "/LCA-Dashboard/index.html",
+    "precache-manifest.965c05f38c48019b3cb33351c6494072.js": "/LCA-Dashboard/precache-manifest.965c05f38c48019b3cb33351c6494072.js",
+    "service-worker.js": "/LCA-Dashboard/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/LCA-Dashboard/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.088f2afe.chunk.js.LICENSE.txt": "/LCA-Dashboard/static/js/2.088f2afe.chunk.js.LICENSE.txt",
+    "static/media/allimpacts.csv": "/LCA-Dashboard/static/media/allimpacts.5c5df224.csv",
+    "static/media/gwp.csv": "/LCA-Dashboard/static/media/gwp.7df9e12d.csv"
   },
   "entrypoints": [
-    "static/js/runtime-main.562f6fbc.js",
+    "static/js/runtime-main.daa35054.js",
     "static/js/2.088f2afe.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.c47f1af4.chunk.js"
+    "static/js/main.67bc1888.chunk.js"
   ]
 }
