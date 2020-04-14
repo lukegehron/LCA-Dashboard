@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/LCA-Dashboard/static/css/main.222127a9.chunk.css",
-    "main.js": "/LCA-Dashboard/static/js/main.b8ccbc6f.chunk.js",
-    "main.js.map": "/LCA-Dashboard/static/js/main.b8ccbc6f.chunk.js.map",
+    "main.css": "/LCA-Dashboard/static/css/main.c11b1148.chunk.css",
+    "main.js": "/LCA-Dashboard/static/js/main.98a052ae.chunk.js",
+    "main.js.map": "/LCA-Dashboard/static/js/main.98a052ae.chunk.js.map",
     "runtime-main.js": "/LCA-Dashboard/static/js/runtime-main.daa35054.js",
     "runtime-main.js.map": "/LCA-Dashboard/static/js/runtime-main.daa35054.js.map",
-    "static/js/2.a178d233.chunk.js": "/LCA-Dashboard/static/js/2.a178d233.chunk.js",
-    "static/js/2.a178d233.chunk.js.map": "/LCA-Dashboard/static/js/2.a178d233.chunk.js.map",
+    "static/js/2.49d8a4f7.chunk.js": "/LCA-Dashboard/static/js/2.49d8a4f7.chunk.js",
+    "static/js/2.49d8a4f7.chunk.js.map": "/LCA-Dashboard/static/js/2.49d8a4f7.chunk.js.map",
     "index.html": "/LCA-Dashboard/index.html",
-    "precache-manifest.7fad1de47867922b5381355091481c1f.js": "/LCA-Dashboard/precache-manifest.7fad1de47867922b5381355091481c1f.js",
+    "precache-manifest.fb9b3654d47bcd79fd0a212a04b49144.js": "/LCA-Dashboard/precache-manifest.fb9b3654d47bcd79fd0a212a04b49144.js",
     "service-worker.js": "/LCA-Dashboard/service-worker.js",
-    "static/css/main.222127a9.chunk.css.map": "/LCA-Dashboard/static/css/main.222127a9.chunk.css.map",
-    "static/js/2.a178d233.chunk.js.LICENSE.txt": "/LCA-Dashboard/static/js/2.a178d233.chunk.js.LICENSE.txt",
+    "static/css/main.c11b1148.chunk.css.map": "/LCA-Dashboard/static/css/main.c11b1148.chunk.css.map",
+    "static/js/2.49d8a4f7.chunk.js.LICENSE.txt": "/LCA-Dashboard/static/js/2.49d8a4f7.chunk.js.LICENSE.txt",
     "static/media/allimpacts.csv": "/LCA-Dashboard/static/media/allimpacts.766fd663.csv",
-    "static/media/gwp.csv": "/LCA-Dashboard/static/media/gwp.049df147.csv"
+    "static/media/gwp.csv": "/LCA-Dashboard/static/media/gwp.049df147.csv",
+    "static/media/popupmock.png": "/LCA-Dashboard/static/media/popupmock.9d9d1873.png"
   },
   "entrypoints": [
     "static/js/runtime-main.daa35054.js",
-    "static/js/2.a178d233.chunk.js",
-    "static/css/main.222127a9.chunk.css",
-    "static/js/main.b8ccbc6f.chunk.js"
+    "static/js/2.49d8a4f7.chunk.js",
+    "static/css/main.c11b1148.chunk.css",
+    "static/js/main.98a052ae.chunk.js"
   ]
 }
