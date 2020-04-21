@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/LCA-Dashboard/static/css/main.d409bea5.chunk.css",
-    "main.js": "/LCA-Dashboard/static/js/main.ca01d703.chunk.js",
-    "main.js.map": "/LCA-Dashboard/static/js/main.ca01d703.chunk.js.map",
+    "main.js": "/LCA-Dashboard/static/js/main.33f90c98.chunk.js",
+    "main.js.map": "/LCA-Dashboard/static/js/main.33f90c98.chunk.js.map",
     "runtime-main.js": "/LCA-Dashboard/static/js/runtime-main.daa35054.js",
     "runtime-main.js.map": "/LCA-Dashboard/static/js/runtime-main.daa35054.js.map",
     "static/js/2.c81b6bbc.chunk.js": "/LCA-Dashboard/static/js/2.c81b6bbc.chunk.js",
     "static/js/2.c81b6bbc.chunk.js.map": "/LCA-Dashboard/static/js/2.c81b6bbc.chunk.js.map",
     "index.html": "/LCA-Dashboard/index.html",
-    "precache-manifest.b56adcd9155d0cf427b780144dc46ddd.js": "/LCA-Dashboard/precache-manifest.b56adcd9155d0cf427b780144dc46ddd.js",
+    "precache-manifest.8cb5bd4d100ed09a3550f2b0edc60b0f.js": "/LCA-Dashboard/precache-manifest.8cb5bd4d100ed09a3550f2b0edc60b0f.js",
     "service-worker.js": "/LCA-Dashboard/service-worker.js",
     "static/css/main.d409bea5.chunk.css.map": "/LCA-Dashboard/static/css/main.d409bea5.chunk.css.map",
     "static/js/2.c81b6bbc.chunk.js.LICENSE.txt": "/LCA-Dashboard/static/js/2.c81b6bbc.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.daa35054.js",
     "static/js/2.c81b6bbc.chunk.js",
     "static/css/main.d409bea5.chunk.css",
-    "static/js/main.ca01d703.chunk.js"
+    "static/js/main.33f90c98.chunk.js"
   ]
 }
