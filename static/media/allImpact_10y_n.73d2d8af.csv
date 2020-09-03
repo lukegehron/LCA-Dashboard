@@ -1,0 +1,17 @@
+material,type,value,name,img
+Granite,Masonry Veneer,100,Granite,./img/granite.png
+Limestone,Masonry Veneer,65,Limestone,./img/limestone.png
+Brick,Masonry Veneer,52,Brick,./img/brick.png
+InsMetPanel,Face Sealed,43,Insulated Metal Panel,./img/insmetalpanel.png
+Spandrel,Curtain Wall,82, Spandrel,./img/spandrel.png
+UHPC,Rainscreen,81,Ultra-High Performance Concrete (fibreC),./img/uhpc.png
+GFRC,Rainscreen,78,Glass Fiber Reinfrced Concrete (GFRC),./img/gfrc.png
+ACM,Rainscreen,65,Aluminum Composite Material (ACM),./img/acm.png
+Terracotta,Rainscreen,46,Terracotta,./img/terracotta.png
+PhenResin,Rainscreen,48,Phenolic Resin,./img/phenresin.png
+FiberCement,Rainscreen,41,Fiber Cement,./img/fibercement.png
+Zinc,Rainscreen,40,Formed Zinc Panel,./img/zinc.png
+Granite1,Rainscreen,36,Granite,./img/granite1.png
+Limestone1,Rainscreen,35,Limestone,./img/limestone1.png
+Steel,Rainscreen,28,Formed Steel Panel,./img/steel1.png
+Wood,Rainscreen,31,Wood,./img/wood1.png

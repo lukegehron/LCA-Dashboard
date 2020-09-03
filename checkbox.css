@@ -1,0 +1,102 @@
+
+
+/* .squaredOne */
+.squaredOne {
+  width: 12px;
+  height: 12px;
+  position: relative;
+  margin: 10px auto;
+  background: #fcfff4;
+  background: linear-gradient(top, #fcfff4 0%, #dfe5d7 40%, #b3bead 100%);
+  /* box-shadow: inset 0px 1px 1px white, 0px 1px 3px rgba(0,0,0,0.5); */
+  border-color: #27ae60;
+  border-width: 2px;
+  border-style: solid;
+}
+
+  .squaredOne label {
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    cursor: pointer;
+    /* background: linear-gradient(top, #222 0%, #45484d 100%); */
+    box-shadow: 0px 1px 0px rgba(255,255,255,1);
+    opacity: 1;
+  }
+
+    .squaredOne label:after {
+      content: '';
+      width: 8px;
+      height: 8px;
+      position: absolute;
+      top: 1px;
+      left: 1px;
+      background: #27ae60;
+      /* background: linear-gradient(top, #27ae60 0%, #078e40 100%); */
+      /* box-shadow: inset 0px 1px 1px white, 0px 1px 3px rgba(0,0,0,0.5); */
+      opacity: 0;
+    }
+
+    .squaredOne label:hover::after {
+      opacity: 0.3;
+    }
+
+  input[type=checkbox] {
+    visibility: hidden;
+  }
+
+  input[type=checkbox]:checked{
+      opacity: 1;
+    }   
+
+
+    input[type=checkbox]:after {
+      opacity: 1;
+    }
+
+/* end .squaredOne */
+/* 
+*{box-sizing: border-box;}
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+  em{
+    font-size: 14px;
+    text-align: center;
+    display: block;
+    margin-bottom: 50px;
+  }
+  .ondisplay{
+    text-align:center;
+    padding:20px 0;
+  }
+    section{
+      width:100px;
+      height:100px;
+      background: #555;
+      display:inline-block;
+      position: relative;
+      text-align: center;
+      margin-top:5px;
+      border: 1px solid gray;
+      border-radius: 5px;
+      box-shadow:
+        0 1px 4px rgba(0, 0, 0, 0.3), 
+        0 0 40px rgba(0, 0, 0, 0.1) inset;
+    }
+      section:after{
+
+        content:attr(title);
+        position: absolute;
+        width: 100%;
+        left: 0;
+        bottom: 3px;
+        color: #fff;
+        font-size: 12px;
+        font-weight: 400;
+        -webkit-font-smoothing: antialiased;
+        text-shadow: 0px 1px #000; 
+      } */

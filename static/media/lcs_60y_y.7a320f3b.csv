@@ -1,0 +1,17 @@
+material,type,impact1,impact2,impact3,impact4,name,img
+Granite,Masonry Veneer,18.21734095,0.353722336,0.717973524,0.643537015,Granite,./img/granite.png
+Limestone,Masonry Veneer,11.47793146,0.331355425,0.717973524,0.606158778,Limestone,./img/limestone.png
+Brick,Masonry Veneer,8.565424763,0.205872886,0.717973524,0.458947099,Brick,./img/brick.png
+InsMetPanel,Face Sealed,8.558419128,0.080215919,7.56616213,0.067531837,Insulated Metal Panel,./img/insmetalpanel.png
+Spandrel,Curtain Wall,15.83975783,0.224277264,10.68175755,0.244797549,Spandrel,./img/spandrel.png
+UHPC,Rainscreen,14.7554033,0.159409566,0.717973524,0.23569326,Ultra-High Performance Concrete (fibreC),./img/uhpc.png
+GFRC,Rainscreen,14.60661742,0.144223589,0.717973524,0.321311489,Glass Fiber Reinfrced Concrete (GFRC),./img/gfrc.png
+ACM,Rainscreen,10.48992559,0.077785153,0.717973524,0.160922285,Aluminum Composite Material (ACM),./img/acm.png
+Terracotta,Rainscreen,7.991165875,0.341785344,0.717973524,0.222224667,Terracotta,./img/terracotta.png
+PhenResin,Rainscreen,7.912379011,0.108582256,6.48012198,0.196640546,Phenolic Resin,./img/phenresin.png
+FiberCement,Rainscreen,7.551004921,0.080254768,6.206553267,0.312773411,Fiber Cement,./img/fibercement.png
+Zinc,Rainscreen,6.681329621,0.072381227,0.717973524,0.138399166,Formed Zinc Panel,./img/zinc.png
+Granite1,Rainscreen,6.428921502,0.075701976,0.717973524,0.166952647,Granite,./img/granite1.png
+Limestone1,Rainscreen,7.991165875,0.341785344,0.717973524,0.222224667,Limestone,./img/limestone1.png
+Steel,Rainscreen,4.703733542,0.060136374,3.306303556,0.134990226,Formed Steel Panel,./img/steel1.png
+Wood,Rainscreen,3.014402,0.081790941,1.728505167,1.537964737,Wood,./img/wood1.png
