@@ -1,31 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "901dd489ac680f244d3a83cca6e1aa78",
+    "revision": "d49108cd356e87f5c0b658a7d98713bd",
     "url": "/LCA-Dashboard/index.html"
   },
   {
-    "revision": "c49ae54171a2d706aa2c",
+    "revision": "4eaa2c79ef51dade16c1",
     "url": "/LCA-Dashboard/static/css/2.d5700f61.chunk.css"
   },
   {
-    "revision": "05393d4ebdb186920512",
-    "url": "/LCA-Dashboard/static/css/main.915a7ebd.chunk.css"
+    "revision": "f3556047fe936afdef52",
+    "url": "/LCA-Dashboard/static/css/main.bb3498ec.chunk.css"
   },
   {
-    "revision": "c49ae54171a2d706aa2c",
-    "url": "/LCA-Dashboard/static/js/2.21301bb4.chunk.js"
+    "revision": "4eaa2c79ef51dade16c1",
+    "url": "/LCA-Dashboard/static/js/2.610d5618.chunk.js"
   },
   {
     "revision": "244be08db1f147d8c60f121b5c7895dd",
-    "url": "/LCA-Dashboard/static/js/2.21301bb4.chunk.js.LICENSE.txt"
+    "url": "/LCA-Dashboard/static/js/2.610d5618.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "05393d4ebdb186920512",
-    "url": "/LCA-Dashboard/static/js/main.f5f355a7.chunk.js"
+    "revision": "f3556047fe936afdef52",
+    "url": "/LCA-Dashboard/static/js/main.11fd540d.chunk.js"
   },
   {
     "revision": "b4c1327b95080c004ffc",
     "url": "/LCA-Dashboard/static/js/runtime-main.daa35054.js"
+  },
+  {
+    "revision": "051d7a41d0f0e3138d55652433d90e1a",
+    "url": "/LCA-Dashboard/static/media/Detail_MockUp_MVGranite.051d7a41.png"
+  },
+  {
+    "revision": "e1e32384cd5e3d192ef1d0d41ca58857",
+    "url": "/LCA-Dashboard/static/media/Detail_MockUp_RSGranite.e1e32384.png"
   },
   {
     "revision": "73d2d8afbbf008a2ad7cb586d2e3c1dd",

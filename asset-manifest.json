@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/LCA-Dashboard/static/css/main.915a7ebd.chunk.css",
-    "main.js": "/LCA-Dashboard/static/js/main.f5f355a7.chunk.js",
-    "main.js.map": "/LCA-Dashboard/static/js/main.f5f355a7.chunk.js.map",
+    "main.css": "/LCA-Dashboard/static/css/main.bb3498ec.chunk.css",
+    "main.js": "/LCA-Dashboard/static/js/main.11fd540d.chunk.js",
+    "main.js.map": "/LCA-Dashboard/static/js/main.11fd540d.chunk.js.map",
     "runtime-main.js": "/LCA-Dashboard/static/js/runtime-main.daa35054.js",
     "runtime-main.js.map": "/LCA-Dashboard/static/js/runtime-main.daa35054.js.map",
     "static/css/2.d5700f61.chunk.css": "/LCA-Dashboard/static/css/2.d5700f61.chunk.css",
-    "static/js/2.21301bb4.chunk.js": "/LCA-Dashboard/static/js/2.21301bb4.chunk.js",
-    "static/js/2.21301bb4.chunk.js.map": "/LCA-Dashboard/static/js/2.21301bb4.chunk.js.map",
+    "static/js/2.610d5618.chunk.js": "/LCA-Dashboard/static/js/2.610d5618.chunk.js",
+    "static/js/2.610d5618.chunk.js.map": "/LCA-Dashboard/static/js/2.610d5618.chunk.js.map",
     "index.html": "/LCA-Dashboard/index.html",
-    "precache-manifest.0171e43eac4edf5188e7afa88ac313a5.js": "/LCA-Dashboard/precache-manifest.0171e43eac4edf5188e7afa88ac313a5.js",
+    "precache-manifest.fb1023c82fa15766149be345c853cc5c.js": "/LCA-Dashboard/precache-manifest.fb1023c82fa15766149be345c853cc5c.js",
     "service-worker.js": "/LCA-Dashboard/service-worker.js",
     "static/css/2.d5700f61.chunk.css.map": "/LCA-Dashboard/static/css/2.d5700f61.chunk.css.map",
-    "static/css/main.915a7ebd.chunk.css.map": "/LCA-Dashboard/static/css/main.915a7ebd.chunk.css.map",
-    "static/js/2.21301bb4.chunk.js.LICENSE.txt": "/LCA-Dashboard/static/js/2.21301bb4.chunk.js.LICENSE.txt",
+    "static/css/main.bb3498ec.chunk.css.map": "/LCA-Dashboard/static/css/main.bb3498ec.chunk.css.map",
+    "static/js/2.610d5618.chunk.js.LICENSE.txt": "/LCA-Dashboard/static/js/2.610d5618.chunk.js.LICENSE.txt",
+    "static/media/Detail_MockUp_MVGranite.png": "/LCA-Dashboard/static/media/Detail_MockUp_MVGranite.051d7a41.png",
+    "static/media/Detail_MockUp_RSGranite.png": "/LCA-Dashboard/static/media/Detail_MockUp_RSGranite.e1e32384.png",
     "static/media/allImpact_10y_n.csv": "/LCA-Dashboard/static/media/allImpact_10y_n.73d2d8af.csv",
     "static/media/allImpact_10y_y.csv": "/LCA-Dashboard/static/media/allImpact_10y_y.7a563db7.csv",
     "static/media/allImpact_60y_n.csv": "/LCA-Dashboard/static/media/allImpact_60y_n.d3e07ecc.csv",
@@ -43,8 +45,8 @@
   "entrypoints": [
     "static/js/runtime-main.daa35054.js",
     "static/css/2.d5700f61.chunk.css",
-    "static/js/2.21301bb4.chunk.js",
-    "static/css/main.915a7ebd.chunk.css",
-    "static/js/main.f5f355a7.chunk.js"
+    "static/js/2.610d5618.chunk.js",
+    "static/css/main.bb3498ec.chunk.css",
+    "static/js/main.11fd540d.chunk.js"
   ]
 }
