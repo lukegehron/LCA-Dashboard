@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d49108cd356e87f5c0b658a7d98713bd",
+    "revision": "ba0468ec39129ba0f0ed871fa115cc8b",
     "url": "/LCA-Dashboard/index.html"
   },
   {
-    "revision": "4eaa2c79ef51dade16c1",
+    "revision": "f7b957a121216b586a50",
     "url": "/LCA-Dashboard/static/css/2.d5700f61.chunk.css"
   },
   {
-    "revision": "f3556047fe936afdef52",
+    "revision": "8d51cea7b848b8d7f502",
     "url": "/LCA-Dashboard/static/css/main.bb3498ec.chunk.css"
   },
   {
-    "revision": "4eaa2c79ef51dade16c1",
-    "url": "/LCA-Dashboard/static/js/2.610d5618.chunk.js"
+    "revision": "f7b957a121216b586a50",
+    "url": "/LCA-Dashboard/static/js/2.dda759d4.chunk.js"
   },
   {
     "revision": "244be08db1f147d8c60f121b5c7895dd",
-    "url": "/LCA-Dashboard/static/js/2.610d5618.chunk.js.LICENSE.txt"
+    "url": "/LCA-Dashboard/static/js/2.dda759d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f3556047fe936afdef52",
-    "url": "/LCA-Dashboard/static/js/main.11fd540d.chunk.js"
+    "revision": "8d51cea7b848b8d7f502",
+    "url": "/LCA-Dashboard/static/js/main.1146d50f.chunk.js"
   },
   {
     "revision": "b4c1327b95080c004ffc",
@@ -82,6 +82,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "47ddaa147e6cc48cfa226924c81a5fbd",
     "url": "/LCA-Dashboard/static/media/gwp_60yd_y.47ddaa14.csv"
+  },
+  {
+    "revision": "573a282018f9a2ae8b18c8af0e9f1424",
+    "url": "/LCA-Dashboard/static/media/l-02.573a2820.png"
+  },
+  {
+    "revision": "618d9d84ce40fa2b515407c0bbecdd62",
+    "url": "/LCA-Dashboard/static/media/l-03.618d9d84.png"
+  },
+  {
+    "revision": "92c2c2c4102cd104588756ea3b19d382",
+    "url": "/LCA-Dashboard/static/media/l-04.92c2c2c4.png"
   },
   {
     "revision": "c4b152f598bc819c26bbb5448a51b0ee",

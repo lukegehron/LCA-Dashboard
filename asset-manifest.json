@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/LCA-Dashboard/static/css/main.bb3498ec.chunk.css",
-    "main.js": "/LCA-Dashboard/static/js/main.11fd540d.chunk.js",
-    "main.js.map": "/LCA-Dashboard/static/js/main.11fd540d.chunk.js.map",
+    "main.js": "/LCA-Dashboard/static/js/main.1146d50f.chunk.js",
+    "main.js.map": "/LCA-Dashboard/static/js/main.1146d50f.chunk.js.map",
     "runtime-main.js": "/LCA-Dashboard/static/js/runtime-main.daa35054.js",
     "runtime-main.js.map": "/LCA-Dashboard/static/js/runtime-main.daa35054.js.map",
     "static/css/2.d5700f61.chunk.css": "/LCA-Dashboard/static/css/2.d5700f61.chunk.css",
-    "static/js/2.610d5618.chunk.js": "/LCA-Dashboard/static/js/2.610d5618.chunk.js",
-    "static/js/2.610d5618.chunk.js.map": "/LCA-Dashboard/static/js/2.610d5618.chunk.js.map",
+    "static/js/2.dda759d4.chunk.js": "/LCA-Dashboard/static/js/2.dda759d4.chunk.js",
+    "static/js/2.dda759d4.chunk.js.map": "/LCA-Dashboard/static/js/2.dda759d4.chunk.js.map",
     "index.html": "/LCA-Dashboard/index.html",
-    "precache-manifest.fb1023c82fa15766149be345c853cc5c.js": "/LCA-Dashboard/precache-manifest.fb1023c82fa15766149be345c853cc5c.js",
+    "precache-manifest.72c54279d5111821c78330176ecccc0c.js": "/LCA-Dashboard/precache-manifest.72c54279d5111821c78330176ecccc0c.js",
     "service-worker.js": "/LCA-Dashboard/service-worker.js",
     "static/css/2.d5700f61.chunk.css.map": "/LCA-Dashboard/static/css/2.d5700f61.chunk.css.map",
     "static/css/main.bb3498ec.chunk.css.map": "/LCA-Dashboard/static/css/main.bb3498ec.chunk.css.map",
-    "static/js/2.610d5618.chunk.js.LICENSE.txt": "/LCA-Dashboard/static/js/2.610d5618.chunk.js.LICENSE.txt",
+    "static/js/2.dda759d4.chunk.js.LICENSE.txt": "/LCA-Dashboard/static/js/2.dda759d4.chunk.js.LICENSE.txt",
     "static/media/Detail_MockUp_MVGranite.png": "/LCA-Dashboard/static/media/Detail_MockUp_MVGranite.051d7a41.png",
     "static/media/Detail_MockUp_RSGranite.png": "/LCA-Dashboard/static/media/Detail_MockUp_RSGranite.e1e32384.png",
     "static/media/allImpact_10y_n.csv": "/LCA-Dashboard/static/media/allImpact_10y_n.73d2d8af.csv",
@@ -28,6 +28,9 @@
     "static/media/gwp_60y_y.csv": "/LCA-Dashboard/static/media/gwp_60y_y.c8b058f2.csv",
     "static/media/gwp_60yd_n.csv": "/LCA-Dashboard/static/media/gwp_60yd_n.ff745d20.csv",
     "static/media/gwp_60yd_y.csv": "/LCA-Dashboard/static/media/gwp_60yd_y.47ddaa14.csv",
+    "static/media/l-02.png": "/LCA-Dashboard/static/media/l-02.573a2820.png",
+    "static/media/l-03.png": "/LCA-Dashboard/static/media/l-03.618d9d84.png",
+    "static/media/l-04.png": "/LCA-Dashboard/static/media/l-04.92c2c2c4.png",
     "static/media/lcs_10y_n.csv": "/LCA-Dashboard/static/media/lcs_10y_n.c4b152f5.csv",
     "static/media/lcs_10y_y.csv": "/LCA-Dashboard/static/media/lcs_10y_y.e1a6ef6e.csv",
     "static/media/lcs_60y_n.csv": "/LCA-Dashboard/static/media/lcs_60y_n.9c4aea77.csv",
@@ -45,8 +48,8 @@
   "entrypoints": [
     "static/js/runtime-main.daa35054.js",
     "static/css/2.d5700f61.chunk.css",
-    "static/js/2.610d5618.chunk.js",
+    "static/js/2.dda759d4.chunk.js",
     "static/css/main.bb3498ec.chunk.css",
-    "static/js/main.11fd540d.chunk.js"
+    "static/js/main.1146d50f.chunk.js"
   ]
 }
