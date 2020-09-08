@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LCA-Dashboard/static/css/main.6461f9c4.chunk.css",
-    "main.js": "/LCA-Dashboard/static/js/main.8a592687.chunk.js",
-    "main.js.map": "/LCA-Dashboard/static/js/main.8a592687.chunk.js.map",
+    "main.js": "/LCA-Dashboard/static/js/main.53ef5338.chunk.js",
+    "main.js.map": "/LCA-Dashboard/static/js/main.53ef5338.chunk.js.map",
     "runtime-main.js": "/LCA-Dashboard/static/js/runtime-main.daa35054.js",
     "runtime-main.js.map": "/LCA-Dashboard/static/js/runtime-main.daa35054.js.map",
     "static/css/2.d5700f61.chunk.css": "/LCA-Dashboard/static/css/2.d5700f61.chunk.css",
     "static/js/2.25c7a0eb.chunk.js": "/LCA-Dashboard/static/js/2.25c7a0eb.chunk.js",
     "static/js/2.25c7a0eb.chunk.js.map": "/LCA-Dashboard/static/js/2.25c7a0eb.chunk.js.map",
     "index.html": "/LCA-Dashboard/index.html",
-    "precache-manifest.3b587e2a593788ff2429577d25097616.js": "/LCA-Dashboard/precache-manifest.3b587e2a593788ff2429577d25097616.js",
+    "precache-manifest.e50c5ffa7e24dc45364aae8e45267ac5.js": "/LCA-Dashboard/precache-manifest.e50c5ffa7e24dc45364aae8e45267ac5.js",
     "service-worker.js": "/LCA-Dashboard/service-worker.js",
     "static/css/2.d5700f61.chunk.css.map": "/LCA-Dashboard/static/css/2.d5700f61.chunk.css.map",
     "static/css/main.6461f9c4.chunk.css.map": "/LCA-Dashboard/static/css/main.6461f9c4.chunk.css.map",
@@ -50,6 +50,6 @@
     "static/css/2.d5700f61.chunk.css",
     "static/js/2.25c7a0eb.chunk.js",
     "static/css/main.6461f9c4.chunk.css",
-    "static/js/main.8a592687.chunk.js"
+    "static/js/main.53ef5338.chunk.js"
   ]
 }
