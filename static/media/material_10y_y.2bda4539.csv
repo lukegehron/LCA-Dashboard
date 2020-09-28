@@ -1,4 +1,4 @@
-material,type,name,img,mat1,mat2,mat3,mat4,mat5,mat6,mat7,mat8,mat9,mat10,mat11,mat12,mat13,mat14,mat15,mat16,mat17,mat18,mat19,mat20,mat21,mat22,mat23,mat24,mat25,mat26,mat27,mat28,mat29,mat30,mat31,mat32,mat33,mat34,mat35,mat36,
+material,type,name,img,mat1,mat2,mat3,mat4,mat5,mat6,mat7,mat8,mat9,mat10,mat11,mat12,mat13,mat14,mat15,mat16,mat17,mat18,mat19,mat20,mat21,mat22,mat23,mat24,mat25,mat26,mat27,mat28,mat29,mat30,mat31,mat32,mat33,mat34,mat35,mat36,mat37
 Granite,Masonry Veneer,Granite,./img/granite.png,0.090974423,0.298968322,1.460686059,0.545560861,0.213872302,0,0,0.543453597,0,1.233217089,0,0,0,0.221417277,0,13.98479685,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Limestone,Masonry Veneer,Limestone,./img/limestone.png,0.090974423,0.298968322,1.460686059,0.545560861,0.213872302,0,0,0.543453597,0,1.233217089,0,0,0,0.221417277,0,0,7.223020452,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brick,Masonry Veneer,Brick,./img/brick.png,0.090974423,0.298968322,1.460686059,0.545560861,0.213872302,0,0,0.543453597,0,1.233217089,0,0,0,0,0.227062815,0,0,4.179385676,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
