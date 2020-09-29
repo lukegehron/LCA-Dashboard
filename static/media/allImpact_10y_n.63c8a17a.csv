@@ -5,13 +5,13 @@ Brick,Masonry Veneer,Brick,./img/brick.png,28,9,6,4,3,2
 InsMetPanel,Face Sealed,Insulated Metal Panel,./img/insmetalpanel.png,23,8,5,3,3,2
 Spandrel,Curtain Wall, Spandrel,./img/spandrel.png,44,15,9,6,5,3
 UHPC,Rainscreen,Ultra-High Performance Concrete (fibreC),./img/uhpc.png,44,15,9,6,5,3
-GFRC,Rainscreen,Glass Fiber Reinfrced Concrete (GFRC),./img/gfrc.png,42,14,9,5,5,3
+GFRC,Rainscreen,Glass Fiber Reinforced Concrete (GFRC),./img/gfrc.png,42,14,9,6,5,3
 ACM,Rainscreen,Aluminum Composite Material (ACM),./img/acm.png,35,12,7,5,4,3
 Terracotta,Rainscreen,Terracotta,./img/terracotta.png,25,8,5,3,3,2
 PhenResin,Rainscreen,Phenolic Resin,./img/phenresin.png,26,9,5,3,3,2
-FiberCement,Rainscreen,Fiber Cement,./img/fibercement.png,22,7,4,3,2,2
+FiberCement,Rainscreen,Fiber Cement,./img/fibercement.png,22,7,5,3,2,2
 Zinc,Rainscreen,Formed Zinc Panel,./img/zinc.png,22,7,4,3,2,2
 Granite1,Rainscreen,Granite,./img/granite1.png,20,7,4,3,2,1
 Limestone1,Rainscreen,Limestone,./img/limestone1.png,19,6,4,2,2,1
 Steel,Rainscreen,Formed Steel Panel,./img/steel1.png,15,5,3,2,2,1
-Wood,Rainscreen,Wood,./img/wood1.png,16,5,3,2,2,1
+Wood,Rainscreen,Wood,./img/wood1.png,17,6,3,2,2,1

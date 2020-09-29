@@ -5,7 +5,7 @@ Brick,Masonry Veneer,8.541837958,0.205456815,0.717973524,0.458840051,-1.01234777
 InsMetPanel,Face Sealed,8.534832323,0.079799848,7.542052206,0.067424789,-4.8237764,Insulated Metal Panel,./img/insmetalpanel.png
 Spandrel,Curtain Wall,15.83975783,0.224277264,6.303179384,0.244797549,-5.952819544,Spandrel,./img/spandrel.png
 UHPC,Rainscreen,14.8954033,0.159409566,0.717973524,0.23569326,-2.453995135,Ultra-High Performance Concrete (fibreC),./img/uhpc.png
-GFRC,Rainscreen,14.60661742,0.144223589,0.717973524,0.321311489,-2.450421097,Glass Fiber Reinfrced Concrete (GFRC),./img/gfrc.png
+GFRC,Rainscreen,14.60661742,0.144223589,0.717973524,0.321311489,-2.450421097,Glass Fiber Reinforced Concrete (GFRC),./img/gfrc.png
 ACM,Rainscreen,10.48992559,0.077785153,0.717973524,0.160922285,-3.734844982,Aluminum Composite Material (ACM),./img/acm.png
 Terracotta,Rainscreen,7.991165875,0.341785344,0.717973524,0.222224667,-2.966099179,Terracotta,./img/terracotta.png
 PhenResin,Rainscreen,7.912379011,0.108582256,6.48012198,0.196640546,-5.117724271,Phenolic Resin,./img/phenresin.png
